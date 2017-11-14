@@ -1,5 +1,5 @@
 %Derivering
-
+%Test
 data = load('smogenSpring2010.txt');
 t = data(:,1);
 h = data(:,2);

@@ -7,7 +7,7 @@ h = data(:,2);
 t=t*(60*60*24);
 h=h/1000;
 
-
+%Detta är en kommentar!
 q =57000000*(diff(h)/diff(t));
 
 
